@@ -1,0 +1,33 @@
+{
+    "name": "SaveTheTiger3",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/SaveTheTiger3.html",
+    "description": "This is the description for site SaveTheTiger3",
+    "status": "test",
+    "id": "0x000000000000000000000000000000000000004dS",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000004d"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000004d"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000004d"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000004d"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

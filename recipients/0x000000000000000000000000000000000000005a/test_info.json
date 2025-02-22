@@ -1,0 +1,33 @@
+{
+    "name": "SaveTheTrees",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/SaveTheTrees.html",
+    "description": "This is the description for site SaveTheTrees",
+    "status": "test",
+    "id": "0x000000000000000000000000000000000000005aS",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000005a"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000005a"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000005a"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000005a"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

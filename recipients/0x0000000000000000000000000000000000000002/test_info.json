@@ -1,0 +1,33 @@
+{
+    "name": "FixTheRoads",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/FixTheRoads.html",
+    "description": "This is the description for site FixTheRoads",
+    "status": "test",
+    "id": "0x0000000000000000000000000000000000000002S",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x0000000000000000000000000000000000000002"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x0000000000000000000000000000000000000002"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x0000000000000000000000000000000000000002"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x0000000000000000000000000000000000000002"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "PC_4",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/PC_4.html",
+    "description": "This is the description for site PC_4",
+    "status": "test",
+    "id": "0x000000000000000000000000000000000000003aS",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000003a"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000003a"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000003a"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000003a"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

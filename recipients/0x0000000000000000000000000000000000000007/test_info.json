@@ -1,0 +1,33 @@
+{
+    "name": "Trump4",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/Trump4.html",
+    "description": "This is the description for site Trump4",
+    "status": "test",
+    "id": "0x0000000000000000000000000000000000000007S",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x0000000000000000000000000000000000000007"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x0000000000000000000000000000000000000007"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x0000000000000000000000000000000000000007"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x0000000000000000000000000000000000000007"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

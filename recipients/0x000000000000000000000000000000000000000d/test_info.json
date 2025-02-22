@@ -1,0 +1,33 @@
+{
+    "name": "AnimalShelter4",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/AnimalShelter4.html",
+    "description": "This is the description for site AnimalShelter4",
+    "status": "test",
+    "id": "0x000000000000000000000000000000000000000dS",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000000d"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000000d"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000000d"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000000d"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

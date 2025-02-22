@@ -1,0 +1,33 @@
+{
+    "name": "Republican1",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/Republican1.html",
+    "description": "This is the description for site Republican1",
+    "status": "test",
+    "id": "0x0000000000000000000000000000000000000004S",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x0000000000000000000000000000000000000004"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x0000000000000000000000000000000000000004"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x0000000000000000000000000000000000000004"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x0000000000000000000000000000000000000004"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

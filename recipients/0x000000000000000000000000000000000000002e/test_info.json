@@ -1,0 +1,33 @@
+{
+    "name": "Liberals6",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/Liberals6.html",
+    "description": "This is the description for site Liberals6",
+    "status": "test",
+    "id": "0x000000000000000000000000000000000000002eS",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000002e"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000002e"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000002e"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000002e"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

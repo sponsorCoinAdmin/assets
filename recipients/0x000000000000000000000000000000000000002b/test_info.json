@@ -1,0 +1,33 @@
+{
+    "name": "TO_DO_ADD_NAME",
+    "type": "ERC20_WALLET",
+    "website": "TO_DO_ADD_WEB",
+    "description": "TO_DO_ADD_DESCRIPTION",
+    "status": "test",
+    "id": "0x000000000000000000000000000000000000002bS",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000002b"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000002b"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000002b"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000002b"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

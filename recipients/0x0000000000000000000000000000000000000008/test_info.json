@@ -1,0 +1,33 @@
+{
+    "name": "Unicef",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites/Unicef.html",
+    "description": "This is the description for site Unicef",
+    "status": "test",
+    "id": "0x0000000000000000000000000000000000000008S",
+    "links": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/0x0000000000000000000000000000000000000008"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x0000000000000000000000000000000000000008"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/0x0000000000000000000000000000000000000008"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/0x0000000000000000000000000000000000000008"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}
