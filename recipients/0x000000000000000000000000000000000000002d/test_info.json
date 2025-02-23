@@ -1,14 +1,15 @@
 {
-    "name": "Liberals2",
+    "name": "Vote Liberals",
+    "symbol": "LIB_2",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites/Liberals2.html",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Liberals2",
     "description": "This is the description for site Liberals2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000002dS",
-    "links": [
+    "id": "0x000000000000000000000000000000000000002d",
+    "block-scanners": [
         {
             "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000002d"
+            "explorer": "https://basescan.org/address/NA"
         },
         {
             "blockchain": "ETHEREUM",
@@ -16,11 +17,11 @@
         },
         {
             "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000002d"
+            "url": "https://polygonscan.com/address/NA"
         },
         {
             "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000002d"
+            "url": "https://sepolia.etherscan.io/address/NA"
         },
         {
             "blockchain": "HARDHAT",

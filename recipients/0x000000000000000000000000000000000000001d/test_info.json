@@ -1,14 +1,15 @@
 {
-    "name": "ChildrensWishFoundation2",
+    "name": "Childrens Wish",
+    "symbol": "WISH",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites/ChildrensWishFoundation2.html",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=ChildrensWishFoundation2",
     "description": "This is the description for site ChildrensWishFoundation2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000001dS",
-    "links": [
+    "id": "0x000000000000000000000000000000000000001d",
+    "block-scanners": [
         {
             "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000001d"
+            "explorer": "https://basescan.org/address/NA"
         },
         {
             "blockchain": "ETHEREUM",
@@ -16,11 +17,11 @@
         },
         {
             "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000001d"
+            "url": "https://polygonscan.com/address/NA"
         },
         {
             "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000001d"
+            "url": "https://sepolia.etherscan.io/address/NA"
         },
         {
             "blockchain": "HARDHAT",

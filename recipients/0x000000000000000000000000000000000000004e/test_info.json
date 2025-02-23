@@ -1,14 +1,15 @@
 {
-    "name": "SaveTheTiger4",
+    "name": "Support The Tiger",
+    "symbol": "TIGER",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites/SaveTheTiger4.html",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SaveTheTiger4",
     "description": "This is the description for site SaveTheTiger4",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000004eS",
-    "links": [
+    "id": "0x000000000000000000000000000000000000004e",
+    "block-scanners": [
         {
             "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000004e"
+            "explorer": "https://basescan.org/address/NA"
         },
         {
             "blockchain": "ETHEREUM",
@@ -16,11 +17,11 @@
         },
         {
             "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000004e"
+            "url": "https://polygonscan.com/address/NA"
         },
         {
             "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000004e"
+            "url": "https://sepolia.etherscan.io/address/NA"
         },
         {
             "blockchain": "HARDHAT",

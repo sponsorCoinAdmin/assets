@@ -1,14 +1,15 @@
 {
-    "name": "RedCross",
+    "name": "Red Cross",
+    "symbol": "RC",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites/RedCross.html",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=RedCross",
     "description": "This is the description for site RedCross",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000003fS",
-    "links": [
+    "id": "0x000000000000000000000000000000000000003f",
+    "block-scanners": [
         {
             "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000003f"
+            "explorer": "https://basescan.org/address/NA"
         },
         {
             "blockchain": "ETHEREUM",
@@ -16,11 +17,11 @@
         },
         {
             "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000003f"
+            "url": "https://polygonscan.com/address/NA"
         },
         {
             "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000003f"
+            "url": "https://sepolia.etherscan.io/address/NA"
         },
         {
             "blockchain": "HARDHAT",

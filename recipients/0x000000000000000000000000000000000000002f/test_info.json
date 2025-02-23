@@ -1,14 +1,15 @@
 {
-    "name": "PC_2",
+    "name": "PC Party",
+    "symbol": "PC_2",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites/PC_2.html",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=PC_2",
     "description": "This is the description for site PC_2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000002fS",
-    "links": [
+    "id": "0x000000000000000000000000000000000000002f",
+    "block-scanners": [
         {
             "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000002f"
+            "explorer": "https://basescan.org/address/NA"
         },
         {
             "blockchain": "ETHEREUM",
@@ -16,11 +17,11 @@
         },
         {
             "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000002f"
+            "url": "https://polygonscan.com/address/NA"
         },
         {
             "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000002f"
+            "url": "https://sepolia.etherscan.io/address/NA"
         },
         {
             "blockchain": "HARDHAT",

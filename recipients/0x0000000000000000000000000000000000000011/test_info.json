@@ -1,14 +1,15 @@
 {
-    "name": "VoteTrudeau",
+    "name": "Vote Trudeau",
+    "symbol": "TRUDEAU",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites/VoteTrudeau.html",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=VoteTrudeau",
     "description": "This is the description for site VoteTrudeau",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000011S",
-    "links": [
+    "id": "0x0000000000000000000000000000000000000011",
+    "block-scanners": [
         {
             "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/0x0000000000000000000000000000000000000011"
+            "explorer": "https://basescan.org/address/NA"
         },
         {
             "blockchain": "ETHEREUM",
@@ -16,11 +17,11 @@
         },
         {
             "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/0x0000000000000000000000000000000000000011"
+            "url": "https://polygonscan.com/address/NA"
         },
         {
             "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/0x0000000000000000000000000000000000000011"
+            "url": "https://sepolia.etherscan.io/address/NA"
         },
         {
             "blockchain": "HARDHAT",

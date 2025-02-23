@@ -1,14 +1,15 @@
 {
-    "name": "PC_3",
+    "name": "Progressive Conservatives",
+    "symbol": "PC_3",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites/PC_3.html",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=PC_3",
     "description": "This is the description for site PC_3",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000003S",
-    "links": [
+    "id": "0x0000000000000000000000000000000000000003",
+    "block-scanners": [
         {
             "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/0x0000000000000000000000000000000000000003"
+            "explorer": "https://basescan.org/address/NA"
         },
         {
             "blockchain": "ETHEREUM",
@@ -16,11 +17,11 @@
         },
         {
             "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/0x0000000000000000000000000000000000000003"
+            "url": "https://polygonscan.com/address/NA"
         },
         {
             "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/0x0000000000000000000000000000000000000003"
+            "url": "https://sepolia.etherscan.io/address/NA"
         },
         {
             "blockchain": "HARDHAT",

@@ -1,11 +1,11 @@
 {
-    "name": "Support Liberal",
-    "symbol": "LIB_6",
+    "name": "Ezra Levant",
+    "symbol": "Ezra At Rebel News",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Liberals6",
-    "description": "This is the description for site Liberals6",
+    "website": "https://www.rebelnews.com/",
+    "description": "This is the description for site RebelNews1",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000002e",
+    "id": "0x39846f9558199c333c5212fe4658293cbf3da679",
     "block-scanners": [
         {
             "blockchain": "BASE",
@@ -13,7 +13,7 @@
         },
         {
             "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/0x000000000000000000000000000000000000002e"
+            "url": "https://etherscan.io/0x39846f9558199c333c5212fe4658293cbf3da679"
         },
         {
             "blockchain": "POLYGON",

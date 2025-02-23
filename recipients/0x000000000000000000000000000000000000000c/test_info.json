@@ -1,14 +1,15 @@
 {
-    "name": "AnimalShelter3",
+    "name": "Dogs R Us",
+    "symbol": "WOOF",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites/AnimalShelter3.html",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=AnimalShelter3",
     "description": "This is the description for site AnimalShelter3",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000000cS",
-    "links": [
+    "id": "0x000000000000000000000000000000000000000c",
+    "block-scanners": [
         {
             "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/0x000000000000000000000000000000000000000c"
+            "explorer": "https://basescan.org/address/NA"
         },
         {
             "blockchain": "ETHEREUM",
@@ -16,11 +17,11 @@
         },
         {
             "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/0x000000000000000000000000000000000000000c"
+            "url": "https://polygonscan.com/address/NA"
         },
         {
             "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/0x000000000000000000000000000000000000000c"
+            "url": "https://sepolia.etherscan.io/address/NA"
         },
         {
             "blockchain": "HARDHAT",
