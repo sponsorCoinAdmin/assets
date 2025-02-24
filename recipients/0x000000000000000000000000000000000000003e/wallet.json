@@ -1,0 +1,34 @@
+{
+    "name": "David at Rebel",
+    "symbol": "David Menzies",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=RebelNews3",
+    "description": "This is the description for site RebelNews3",
+    "status": "test",
+    "address": "0x000000000000000000000000000000000000003e",
+    "block-scanners": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/NA"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000003e"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/NA"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/NA"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

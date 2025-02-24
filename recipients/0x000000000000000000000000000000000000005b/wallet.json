@@ -1,0 +1,34 @@
+{
+    "name": "Save The Whales",
+    "symbol": "WHALES",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SaveTheWhales",
+    "description": "This is the description for site SaveTheWhales",
+    "status": "test",
+    "address": "0x000000000000000000000000000000000000005b",
+    "block-scanners": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/NA"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000005b"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/NA"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/NA"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Children's Wish Foundation",
+    "symbol": "C.W.F.",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=ChildrensWishFoundation1",
+    "description": "This is the description for site ChildrensWishFoundation1",
+    "status": "test",
+    "address": "0x000000000000000000000000000000000000001c",
+    "block-scanners": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/NA"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x000000000000000000000000000000000000001c"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/NA"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/NA"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}
