@@ -1,11 +1,11 @@
 {
-    "name": "Breast Cancer Foundation",
-    "symbol": "BREAST",
+    "name": "Dog2",
+    "symbol": "Dog2",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=BreastCancerFoundation",
-    "description": "This is the description for site BreastCancerFoundation",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Dog2",
+    "description": "This is the description for site Dog2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000001b",
+    "address": "0x0000000000000000000000000000000000000078",
     "block-scanners": [
         {
             "blockchain": "BASE",
@@ -13,7 +13,7 @@
         },
         {
             "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/0x000000000000000000000000000000000000001b"
+            "url": "https://etherscan.io/0x0000000000000000000000000000000000000078"
         },
         {
             "blockchain": "POLYGON",

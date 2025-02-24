@@ -1,11 +1,11 @@
 {
-    "name": "wallet.json",
-    "symbol": "SYMBOL",
+    "name": "CurleyHoward",
+    "symbol": "CurleyHoward",
     "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=AnimalShelter1",
-    "description": "This is the description for site AnimalShelter1",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=CurleyHoward",
+    "description": "This is the description for site CurleyHoward",
     "status": "test",
-    "address": "0x000000000000000000000000000000000000008d",
+    "address": "0x0000000000000000000000000000000000000076",
     "block-scanners": [
         {
             "blockchain": "BASE",
@@ -13,7 +13,7 @@
         },
         {
             "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/0x000000000000000000000000000000000000008d"
+            "url": "https://etherscan.io/0x0000000000000000000000000000000000000076"
         },
         {
             "blockchain": "POLYGON",

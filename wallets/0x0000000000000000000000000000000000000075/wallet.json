@@ -1,0 +1,34 @@
+{
+    "name": "Cat2",
+    "symbol": "Cat2",
+    "type": "ERC20_WALLET",
+    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Cat2",
+    "description": "This is the description for site Cat2",
+    "status": "test",
+    "address": "0x0000000000000000000000000000000000000075",
+    "block-scanners": [
+        {
+            "blockchain": "BASE",
+            "explorer": "https://basescan.org/address/NA"
+        },
+        {
+            "blockchain": "ETHEREUM",
+            "url": "https://etherscan.io/0x0000000000000000000000000000000000000075"
+        },
+        {
+            "blockchain": "POLYGON",
+            "url": "https://polygonscan.com/address/NA"
+        },
+        {
+            "blockchain": "SEPOLIA",
+            "url": "https://sepolia.etherscan.io/address/NA"
+        },
+        {
+            "blockchain": "HARDHAT",
+            "url": "NA"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}
