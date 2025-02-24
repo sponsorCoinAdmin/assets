@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Veterans",
     "description": "This is the description for site Veterans",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000009",
+    "address": "0x0000000000000000000000000000000000000009",
     "block-scanners": [
         {
             "blockchain": "BASE",

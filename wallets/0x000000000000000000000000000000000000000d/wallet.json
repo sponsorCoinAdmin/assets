@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=AnimalShelter4",
     "description": "This is the description for site AnimalShelter4",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000000d",
+    "address": "0x000000000000000000000000000000000000000d",
     "scan": [
         {
             "blockchain": "BASE",

@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Democrat",
     "description": "This is the description for site Democrat",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000001f",
+    "address": "0x000000000000000000000000000000000000001f",
     "block-scanners": [
         {
             "blockchain": "BASE",

@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SaveTheTiger2",
     "description": "This is the description for site SaveTheTiger2",
     "status": "test",
-    "id": "0x04a9F1C4ED2e26901Ad97f538A64d3EC2066B09b",
+    "address": "0x04a9F1C4ED2e26901Ad97f538A64d3EC2066B09b",
     "block-scanners": [
         {
             "blockchain": "BASE",

@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=RebelNews2",
     "description": "This is the description for site RebelNews2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000003d",
+    "address": "0x000000000000000000000000000000000000003d",
     "block-scanners": [
         {
             "blockchain": "BASE",

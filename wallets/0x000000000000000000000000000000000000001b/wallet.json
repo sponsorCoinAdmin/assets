@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=BreastCancerFoundation",
     "description": "This is the description for site BreastCancerFoundation",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000001b",
+    "address": "0x000000000000000000000000000000000000001b",
     "block-scanners": [
         {
             "blockchain": "BASE",

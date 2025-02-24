@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SaveTheTiger6",
     "description": "This is the description for site SaveTheTiger6",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000005",
+    "address": "0x0000000000000000000000000000000000000005",
     "block-scanners": [
         {
             "blockchain": "BASE",

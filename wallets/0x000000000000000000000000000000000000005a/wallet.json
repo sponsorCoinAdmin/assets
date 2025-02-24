@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SaveTheTrees",
     "description": "This is the description for site SaveTheTrees",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000005a",
+    "address": "0x000000000000000000000000000000000000005a",
     "block-scanners": [
         {
             "blockchain": "BASE",

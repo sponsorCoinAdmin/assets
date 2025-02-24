@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SickKids",
     "description": "This is the description for site SickKids",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000005d",
+    "address": "0x000000000000000000000000000000000000005d",
     "block-scanners": [
         {
             "blockchain": "BASE",

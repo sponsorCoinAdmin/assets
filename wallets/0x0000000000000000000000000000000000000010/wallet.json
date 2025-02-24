@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=VotePierre",
     "description": "This is the description for site VotePierre",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000010",
+    "address": "0x0000000000000000000000000000000000000010",
     "block-scanners": [
         {
             "blockchain": "BASE",

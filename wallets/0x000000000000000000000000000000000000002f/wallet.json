@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=PC_2",
     "description": "This is the description for site PC_2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000002f",
+    "address": "0x000000000000000000000000000000000000002f",
     "block-scanners": [
         {
             "blockchain": "BASE",

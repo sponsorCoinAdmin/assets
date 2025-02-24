@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Liberals6",
     "description": "This is the description for site Liberals6",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000002e",
+    "address": "0x000000000000000000000000000000000000002e",
     "block-scanners": [
         {
             "blockchain": "BASE",

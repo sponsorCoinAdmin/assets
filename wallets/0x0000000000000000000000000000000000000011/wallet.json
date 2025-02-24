@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=VoteTrudeau",
     "description": "This is the description for site VoteTrudeau",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000011",
+    "address": "0x0000000000000000000000000000000000000011",
     "block-scanners": [
         {
             "blockchain": "BASE",

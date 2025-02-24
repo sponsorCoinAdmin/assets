@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SavetheSharks",
     "description": "This is the description for site SavetheSharks",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000004a",
+    "address": "0x000000000000000000000000000000000000004a",
     "block-scanners": [
         {
             "blockchain": "BASE",

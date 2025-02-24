@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Trump2",
     "description": "This is the description for site Trump2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000005f",
+    "address": "0x000000000000000000000000000000000000005f",
     "block-scanners": [
         {
             "blockchain": "BASE",

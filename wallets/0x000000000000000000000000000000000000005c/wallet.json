@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SickGirl",
     "description": "This is the description for site SickGirl",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000005c",
+    "address": "0x000000000000000000000000000000000000005c",
     "block-scanners": [
         {
             "blockchain": "BASE",

@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=FixTheRoads",
     "description": "This is the description for site FixTheRoads",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000002",
+    "address": "0x0000000000000000000000000000000000000002",
     "block-scanners": [
         {
             "blockchain": "BASE",

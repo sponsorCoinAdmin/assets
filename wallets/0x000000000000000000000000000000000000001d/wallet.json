@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=ChildrensWishFoundation2",
     "description": "This is the description for site ChildrensWishFoundation2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000001d",
+    "address": "0x000000000000000000000000000000000000001d",
     "block-scanners": [
         {
             "blockchain": "BASE",

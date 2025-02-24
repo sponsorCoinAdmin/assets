@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Homeless",
     "description": "This is the description for site Homeless",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000002c",
+    "address": "0x000000000000000000000000000000000000002c",
     "block-scanners": [
         {
             "blockchain": "BASE",

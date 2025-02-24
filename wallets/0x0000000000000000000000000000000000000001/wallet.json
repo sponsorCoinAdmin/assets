@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=BornFree",
     "description": "This is the description for site BornFree",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000001",
+    "address": "0x0000000000000000000000000000000000000001",
     "block-scanners": [
         {
             "blockchain": "BASE",

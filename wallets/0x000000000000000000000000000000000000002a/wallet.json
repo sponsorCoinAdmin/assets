@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=FoodBank",
     "description": "This is the description for site FoodBank",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000002a",
+    "address": "0x000000000000000000000000000000000000002a",
     "block-scanners": [
         {
             "blockchain": "BASE",

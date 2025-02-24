@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Republican1",
     "description": "This is the description for site Republican1",
     "status": "test",
-    "id": "0x0000000000000000000000000000000000000004",
+    "address": "0x0000000000000000000000000000000000000004",
     "block-scanners": [
         {
             "blockchain": "BASE",

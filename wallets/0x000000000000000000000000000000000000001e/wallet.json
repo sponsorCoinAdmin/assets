@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=CleanTheParks",
     "description": "This is the description for site CleanTheParks",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000001e",
+    "address": "0x000000000000000000000000000000000000001e",
     "block-scanners": [
         {
             "blockchain": "BASE",

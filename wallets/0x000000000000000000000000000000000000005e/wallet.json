@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=StopDrugAbuse",
     "description": "This is the description for site StopDrugAbuse",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000005e",
+    "address": "0x000000000000000000000000000000000000005e",
     "block-scanners": [
         {
             "blockchain": "BASE",

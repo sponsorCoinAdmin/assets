@@ -5,7 +5,7 @@
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Biden2",
     "description": "This is the description for site Biden2",
     "status": "test",
-    "id": "0x000000000000000000000000000000000000000f",
+    "address": "0x000000000000000000000000000000000000000f",
     "block-scanners": [
         {
             "blockchain": "BASE",
