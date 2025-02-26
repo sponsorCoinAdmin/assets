@@ -1,6 +1,6 @@
 {
-    "name": "Man1",
-    "symbol": "Man1",
+    "name": "Jim Carson",
+    "symbol": "MAN_1",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Man1",
     "description": "This is the description for site Man1",

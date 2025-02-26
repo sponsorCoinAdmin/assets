@@ -1,6 +1,6 @@
 {
-    "name": "AnonymousBlack",
-    "symbol": "AnonymousBlack",
+    "name": "Anonymous Black",
+    "symbol": "A_Black",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=AnonymousBlack",
     "description": "This is the description for site AnonymousBlack",

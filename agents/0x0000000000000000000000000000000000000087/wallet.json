@@ -1,6 +1,6 @@
 {
-    "name": "Man3",
-    "symbol": "Man3",
+    "name": "Seal Tucker",
+    "symbol": "MAN_3",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Man3",
     "description": "This is the description for site Man3",

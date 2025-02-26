@@ -1,6 +1,6 @@
 {
-    "name": "Girl1",
-    "symbol": "Girl1",
+    "name": "Susan James",
+    "symbol": "GIRL_1",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Girl1",
     "description": "This is the description for site Girl1",

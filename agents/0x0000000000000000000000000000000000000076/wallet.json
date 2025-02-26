@@ -1,6 +1,6 @@
 {
-    "name": "CurleyHoward",
-    "symbol": "CurleyHoward",
+    "name": "Curly Howard",
+    "symbol": "STUGE_2",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=CurleyHoward",
     "description": "This is the description for site CurleyHoward",

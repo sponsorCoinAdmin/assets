@@ -1,6 +1,6 @@
 {
-    "name": "Monkey2",
-    "symbol": "Monkey2",
+    "name": "Fink",
+    "symbol": "MONK_2",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Monkey2",
     "description": "This is the description for site Monkey2",

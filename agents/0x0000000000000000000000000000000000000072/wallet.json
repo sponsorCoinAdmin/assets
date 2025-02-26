@@ -1,6 +1,6 @@
 {
-    "name": "AnonymousWhite",
-    "symbol": "AnonymousWhite",
+    "name": "Anonymous White",
+    "symbol": "A_WHITE",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=AnonymousWhite",
     "description": "This is the description for site AnonymousWhite",

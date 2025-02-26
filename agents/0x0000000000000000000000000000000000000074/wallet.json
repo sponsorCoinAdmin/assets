@@ -1,6 +1,6 @@
 {
-    "name": "Cat1",
-    "symbol": "Cat1",
+    "name": "Smokey",
+    "symbol": "CAT1",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Cat1",
     "description": "This is the description for site Cat1",

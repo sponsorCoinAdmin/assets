@@ -1,6 +1,6 @@
 {
-    "name": "FredFlintstone1",
-    "symbol": "FredFlintstone1",
+    "name": "Fred Flintstone",
+    "symbol": "FRED_1",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=FredFlintstone1",
     "description": "This is the description for site FredFlintstone1",

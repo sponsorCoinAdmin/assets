@@ -1,6 +1,6 @@
 {
-    "name": "LarryFine",
-    "symbol": "LarryFine",
+    "name": "Larry Fine",
+    "symbol": "STUGE_1",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=LarryFine",
     "description": "This is the description for site LarryFine",

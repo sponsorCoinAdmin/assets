@@ -1,6 +1,6 @@
 {
-    "name": "Dog2",
-    "symbol": "Dog2",
+    "name": "Ruby",
+    "symbol": "DOG_2",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Dog2",
     "description": "This is the description for site Dog2",

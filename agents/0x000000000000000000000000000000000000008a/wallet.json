@@ -1,6 +1,6 @@
 {
-    "name": "MoeHoward",
-    "symbol": "MoeHoward",
+    "name": "Moe Howard",
+    "symbol": "STUGE_3",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=MoeHoward",
     "description": "This is the description for site MoeHoward",

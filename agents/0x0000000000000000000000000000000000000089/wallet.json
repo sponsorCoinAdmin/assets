@@ -1,6 +1,6 @@
 {
-    "name": "Man5",
-    "symbol": "Man5",
+    "name": "John Doe",
+    "symbol": "JOHN",
     "type": "ERC20_WALLET",
     "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Man5",
     "description": "This is the description for site Man5",
