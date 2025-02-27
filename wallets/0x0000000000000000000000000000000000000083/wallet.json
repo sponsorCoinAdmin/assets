@@ -13,7 +13,7 @@
         },
         {
             "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/0x0000000000000000000000000000000000000083"
+            "url": "https://etherscan.io/address/0x0000000000000000000000000000000000000083"
         },
         {
             "blockchain": "POLYGON",
