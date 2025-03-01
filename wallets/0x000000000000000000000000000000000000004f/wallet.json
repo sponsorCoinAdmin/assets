@@ -1,39 +1,9 @@
 {
-    "name": "Save Me",
-    "symbol": "TIGER5",
-    "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SaveTheTiger5",
-    "description": "This is the description for site SaveTheTiger5",
-    "status": "test",
-    "address": "0x000000000000000000000000000000000000004f",
-    "block-scanners": [
-        {
-            "chainId": 8453,
-            "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/NA"
-        },
-        {
-            "chainId": 1,
-            "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/address/0x000000000000000000000000000000000000004f"
-        },
-        {
-            "chainId": 137,
-            "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/NA"
-        },
-        {
-            "chainId": 11155111,
-            "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/NA"
-        },
-        {
-            "chainId": 31337,
-            "blockchain": "HARDHAT",
-            "url": "NA"
-        }
-    ],
-    "tags": [
-        "stablecoin"
-    ]
+  "name": "Save Me",
+  "symbol": "TIGER5",
+  "type": "ERC20_WALLET",
+  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SaveTheTiger5",
+  "description": "This is the description for site SaveTheTiger5",
+  "status": "test",
+  "address": "0x000000000000000000000000000000000000004f"
 }

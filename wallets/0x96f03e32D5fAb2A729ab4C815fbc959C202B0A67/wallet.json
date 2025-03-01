@@ -1,39 +1,9 @@
 {
-    "name": "Born Free USA",
-    "symbol": "FREE",
-    "type": "ERC20_WALLET",
-    "website": "https://www.bornfreeusa.org",
-    "description": "This is the description for site BornFree2",
-    "status": "test",
-    "address": "0x96f03e32D5fAb2A729ab4C815fbc959C202B0A67",
-    "block-scanners": [
-        {
-            "chainId": 8453,
-            "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/NA"
-        },
-        {
-            "chainId": 1,
-            "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/address/0x96f03e32D5fAb2A729ab4C815fbc959C202B0A67"
-        },
-        {
-            "chainId": 137,
-            "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/NA"
-        },
-        {
-            "chainId": 11155111,
-            "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/NA"
-        },
-        {
-            "chainId": 31337,
-            "blockchain": "HARDHAT",
-            "url": "NA"
-        }
-    ],
-    "tags": [
-        "stablecoin"
-    ]
+  "name": "Born Free USA",
+  "symbol": "FREE",
+  "type": "ERC20_WALLET",
+  "website": "https://www.bornfreeusa.org",
+  "description": "This is the description for site BornFree2",
+  "status": "test",
+  "address": "0x96f03e32D5fAb2A729ab4C815fbc959C202B0A67"
 }

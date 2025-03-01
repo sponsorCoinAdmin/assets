@@ -1,39 +1,9 @@
 {
-    "name": "Progressive Conservatives",
-    "symbol": "PC_3",
-    "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=PC_3",
-    "description": "This is the description for site PC_3",
-    "status": "test",
-    "address": "0x0000000000000000000000000000000000000003",
-    "block-scanners": [
-        {
-            "chainId": 8453,
-            "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/NA"
-        },
-        {
-            "chainId": 1,
-            "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/address/0x0000000000000000000000000000000000000003"
-        },
-        {
-            "chainId": 137,
-            "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/NA"
-        },
-        {
-            "chainId": 11155111,
-            "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/NA"
-        },
-        {
-            "chainId": 31337,
-            "blockchain": "HARDHAT",
-            "url": "NA"
-        }
-    ],
-    "tags": [
-        "stablecoin"
-    ]
+  "name": "Progressive Conservatives",
+  "symbol": "PC_3",
+  "type": "ERC20_WALLET",
+  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=PC_3",
+  "description": "This is the description for site PC_3",
+  "status": "test",
+  "address": "0x0000000000000000000000000000000000000003"
 }

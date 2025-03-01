@@ -1,39 +1,9 @@
 {
-    "name": "Girl1",
-    "symbol": "Girl1",
-    "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Girl1",
-    "description": "This is the description for site Girl1",
-    "status": "test",
-    "address": "0x000000000000000000000000000000000000007c",
-    "block-scanners": [
-        {
-            "chainId": 8453,
-            "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/NA"
-        },
-        {
-            "chainId": 1,
-            "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/address/0x000000000000000000000000000000000000007c"
-        },
-        {
-            "chainId": 137,
-            "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/NA"
-        },
-        {
-            "chainId": 11155111,
-            "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/NA"
-        },
-        {
-            "chainId": 31337,
-            "blockchain": "HARDHAT",
-            "url": "NA"
-        }
-    ],
-    "tags": [
-        "stablecoin"
-    ]
+  "name": "Girl1",
+  "symbol": "Girl1",
+  "type": "ERC20_WALLET",
+  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Girl1",
+  "description": "This is the description for site Girl1",
+  "status": "test",
+  "address": "0x000000000000000000000000000000000000007c"
 }

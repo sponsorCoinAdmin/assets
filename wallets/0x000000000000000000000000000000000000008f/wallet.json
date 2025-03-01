@@ -1,39 +1,9 @@
 {
-    "name": "WilmaFlintstone",
-    "symbol": "WilmaFlintstone",
-    "type": "ERC20_WALLET",
-    "website": "http://localhost:3000/websites/test-dummy-sites?sitename=WilmaFlintstone",
-    "description": "This is the description for site WilmaFlintstone",
-    "status": "test",
-    "address": "0x000000000000000000000000000000000000008f",
-    "block-scanners": [
-        {
-            "chainId": 8453,
-            "blockchain": "BASE",
-            "explorer": "https://basescan.org/address/NA"
-        },
-        {
-            "chainId": 1,
-            "blockchain": "ETHEREUM",
-            "url": "https://etherscan.io/address/0x000000000000000000000000000000000000008f"
-        },
-        {
-            "chainId": 137,
-            "blockchain": "POLYGON",
-            "url": "https://polygonscan.com/address/NA"
-        },
-        {
-            "chainId": 11155111,
-            "blockchain": "SEPOLIA",
-            "url": "https://sepolia.etherscan.io/address/NA"
-        },
-        {
-            "chainId": 31337,
-            "blockchain": "HARDHAT",
-            "url": "NA"
-        }
-    ],
-    "tags": [
-        "stablecoin"
-    ]
+  "name": "WilmaFlintstone",
+  "symbol": "WilmaFlintstone",
+  "type": "ERC20_WALLET",
+  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=WilmaFlintstone",
+  "description": "This is the description for site WilmaFlintstone",
+  "status": "test",
+  "address": "0x000000000000000000000000000000000000008f"
 }
