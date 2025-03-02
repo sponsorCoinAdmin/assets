@@ -2,7 +2,7 @@
   "name": "Red Cross",
   "symbol": "RC",
   "type": "ERC20_WALLET",
-    "website": ""
+  "website": "",
   "description": "This is the description for site RedCross",
   "status": "test",
   "address": "0x000000000000000000000000000000000000003f"
