@@ -2,7 +2,7 @@
   "name": "Progressive",
   "symbol": "PC_4",
   "type": "ERC20_WALLET",
-  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=PC_4",
+    "website": ""
   "description": "This is the description for site PC_4",
   "status": "test",
   "address": "0x000000000000000000000000000000000000003a"

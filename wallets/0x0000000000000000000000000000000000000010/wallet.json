@@ -2,7 +2,7 @@
   "name": "Vote Pierre",
   "symbol": "PIERRE",
   "type": "ERC20_WALLET",
-  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=VotePierre",
+    "website": ""
   "description": "This is the description for site VotePierre",
   "status": "test",
   "address": "0x0000000000000000000000000000000000000010"

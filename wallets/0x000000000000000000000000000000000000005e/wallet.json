@@ -2,7 +2,7 @@
   "name": "Stop Drug Abuse",
   "symbol": "DRUGS",
   "type": "ERC20_WALLET",
-  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=StopDrugAbuse",
+    "website": ""
   "description": "This is the description for site StopDrugAbuse",
   "status": "test",
   "address": "0x000000000000000000000000000000000000005e"

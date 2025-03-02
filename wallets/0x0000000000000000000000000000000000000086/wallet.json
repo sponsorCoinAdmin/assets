@@ -2,7 +2,7 @@
   "name": "Man2",
   "symbol": "Man2",
   "type": "ERC20_WALLET",
-  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Man2",
+    "website": ""
   "description": "This is the description for site Man2",
   "status": "test",
   "address": "0x0000000000000000000000000000000000000086"

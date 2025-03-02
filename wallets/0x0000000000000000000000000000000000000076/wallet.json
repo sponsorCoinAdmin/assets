@@ -2,7 +2,7 @@
   "name": "CurleyHoward",
   "symbol": "CurleyHoward",
   "type": "ERC20_WALLET",
-  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=CurleyHoward",
+    "website": ""
   "description": "This is the description for site CurleyHoward",
   "status": "test",
   "address": "0x0000000000000000000000000000000000000076"

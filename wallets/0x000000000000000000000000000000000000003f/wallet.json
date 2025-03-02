@@ -2,7 +2,7 @@
   "name": "Red Cross",
   "symbol": "RC",
   "type": "ERC20_WALLET",
-  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=RedCross",
+    "website": ""
   "description": "This is the description for site RedCross",
   "status": "test",
   "address": "0x000000000000000000000000000000000000003f"

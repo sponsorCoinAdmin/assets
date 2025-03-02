@@ -2,7 +2,7 @@
   "name": "Help Our Veterans",
   "symbol": "VETERANS",
   "type": "ERC20_WALLET",
-  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=Veterans",
+    "website": ""
   "description": "This is the description for site Veterans",
   "status": "test",
   "address": "0x0000000000000000000000000000000000000009"

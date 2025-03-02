@@ -2,7 +2,7 @@
   "name": "Save The Trees",
   "symbol": "TREES",
   "type": "ERC20_WALLET",
-  "website": "http://localhost:3000/websites/test-dummy-sites?sitename=SaveTheTrees",
+    "website": ""
   "description": "This is the description for site SaveTheTrees",
   "status": "test",
   "address": "0x000000000000000000000000000000000000005a"
