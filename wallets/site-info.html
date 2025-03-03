@@ -13,7 +13,7 @@
         html, body {
             width: 100%;
             height: 100%;
-            background: white;
+            background: #dce6f1;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -27,9 +27,7 @@
         .sitename {
             margin-top: 25px;
         }
-        .image-wrapper {
-            position: absolute;
-            top: 100px;
+        H0px;
             left: 50%;
             transform: translateX(-50%);
         }
@@ -95,7 +93,7 @@
 
     <script>
         const params = new URLSearchParams(window.location.search);
-        const siteKey = params.get('siteKey')?.trim(); // Ensure siteKey is trimmed
+        const siteKey = params.get('siteKey')?.trim();
         const baseUrl = window.location.origin + window.location.pathname;
         const defaultMissingImg = '../miscellaneous/QuestionBlackOnRed.png';
 
@@ -104,6 +102,7 @@
             document.getElementById('usage').innerHTML = `<strong>USAGE:</strong> ${baseUrl}?siteKey=0x04a9F1C4ED2e26901Ad97f538A64d3EC2066B09b`;
         } else {
             document.getElementById('siteKeyDisplay').textContent = `Site Key: ${siteKey}`;
+            document.getElementById('usage').innerHTML = `<strong>USAGE:</strong> ${baseUrl}?siteKey=${siteKey}`;
             loadWalletData(siteKey);
         }
 
@@ -112,16 +111,12 @@
             const imgSrc = `./${siteKey}/avatar.png`;
 
             try {
-                // Fetch wallet JSON file
                 const response = await fetch(walletJsonPath);
                 if (!response.ok) throw new Error(`Wallet JSON not found at: ${walletJsonPath}`);
 
                 const wallet = await response.json();
-
-                // Set sitename from wallet JSON
                 document.getElementById('title').textContent = `Web Site ${wallet.name || 'ERROR: Missing "name" in wallet.json'} Not Found`;
 
-                // Set website if available
                 if (wallet.website?.trim()) {
                     const websiteInput = document.getElementById('websiteInput');
                     websiteInput.value = wallet.website;
@@ -130,7 +125,6 @@
                     showError("Missing 'website' in wallet.json");
                 }
 
-                // Handle Image Loading
                 const siteImage = document.getElementById('siteImage');
                 siteImage.src = imgSrc;
                 siteImage.onerror = function () {
@@ -143,7 +137,6 @@
                 console.error(error);
                 document.getElementById('title').textContent = "Error loading wallet data";
                 showError(error.message);
-                document.getElementById('usage').innerHTML = `<strong>USAGE:</strong> ${baseUrl}?siteKey=0x04a9F1C4ED2e26901Ad97f538A64d3EC2066B09b`;
             }
         }
 
