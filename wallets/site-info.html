@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,10 +11,12 @@
             padding: 0;
             box-sizing: border-box;
         }
-        html, body {
+
+        html,
+        body {
             width: 100%;
             height: 100%;
-            background: #dce6f1;
+            background: #d0d9e8; /* Light blue-grey */
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -21,20 +24,30 @@
             font-family: Arial, sans-serif;
             position: relative;
         }
+
         h1 {
             margin-top: 50px;
         }
+
         .sitename {
             margin-top: 25px;
         }
-        H0px;
+
+        .image-wrapper {
+            position: absolute;
+            top: 165px;
             left: 50%;
             transform: translateX(-50%);
         }
+
         img {
             display: block;
-            transform: scale(0.61);
+            height: 450px;
+            /* Set fixed height */
+            width: auto;
+            /* Maintain aspect ratio */
         }
+
         .missing-img-text {
             position: absolute;
             top: 500px;
@@ -45,11 +58,13 @@
             font-weight: bold;
             display: none;
         }
+
         .error {
             color: red;
             font-size: 110%;
             margin-top: 20px;
         }
+
         .usage {
             position: absolute;
             bottom: 70px;
@@ -59,6 +74,7 @@
             color: black;
             font-weight: bold;
         }
+
         .website-input {
             margin-top: 20px;
             padding: 5px;
@@ -69,6 +85,7 @@
             text-align: center;
             font-size: 1rem;
         }
+
         .key-display {
             margin-top: 15px;
             font-size: 90%;
@@ -76,19 +93,20 @@
         }
     </style>
 </head>
+
 <body>
     <h1 id="title">Loading...</h1>
 
     <div id="siteKeyDisplay" class="key-display"></div>
 
     <input type="text" id="websiteInput" class="website-input" readonly style="display: none;">
-    
+
     <div class="image-wrapper">
         <img id="siteImage" src="" alt="Missing Image">
     </div>
 
     <div id="missingImgText" class="missing-img-text">Missing Image</div>
-    
+
     <div id="usage" class="usage"></div>
 
     <script>
@@ -115,7 +133,12 @@
                 if (!response.ok) throw new Error(`Wallet JSON not found at: ${walletJsonPath}`);
 
                 const wallet = await response.json();
-                document.getElementById('title').textContent = `Web Site ${wallet.name || 'ERROR: Missing "name" in wallet.json'} Not Found`;
+                document.getElementById('title').innerHTML =
+                    `<span style="color: darkblue;">Web Site</span> 
+                    <span style="color: ${wallet.name ? 'black' : 'red'};">
+                        ${wallet.name ? wallet.name : '<span style="color: red;">ERROR: Missing "name" in wallet.json</span>'}
+                    </span> 
+                    <span style="color: darkblue;">Not Found</span>`;
 
                 if (wallet.website?.trim()) {
                     const websiteInput = document.getElementById('websiteInput');
@@ -148,4 +171,5 @@
         }
     </script>
 </body>
+
 </html>
